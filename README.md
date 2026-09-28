@@ -11,10 +11,7 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_O AutoAgil é um sistema web criado para otimizar o fluxo de atendimento e agendamento de serviços em lava-rápidos automotivos. Ele substitui o controle manual em pranchetas por uma agenda digital que organiza a capacidade de atendimento do pátio e informa tempos previstos para cada tipo de lavagem. Com o sistema, clientes agendam horários com antecedência e acompanham o status de limpeza do veículo, evitando filas e sobrecarga no estabelecimento_
+_O AutoAgil é um sistema web desenvolvido para organizar o fluxo de agendamentos e o controle de vagas em um lava-rápido. O projeto atende às necessidades de estabelecimentos que ainda utilizam pranchetas de papel, o que frequentemente gera sobreposição de horários e sobrecarga no pátio. Por meio da plataforma, o cliente visualiza a disponibilidade da agenda e solicita o serviço antes de sair de casa. Para o proprietário, o sistema centraliza o status de lavagem de cada veículo e estima o tempo exato de entrega, eliminando filas e otimizando o trabalho diário_
 
 ## Documento do projeto
 
