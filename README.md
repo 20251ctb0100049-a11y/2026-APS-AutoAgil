@@ -1,20 +1,20 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# AutoAgil: Gestão de Agendamentos para Lava-Rápido
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** _RAFAEL LOPES PAZ OLIVEIRA PALHANO_
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** _Marcos, proprietário do lava-rápido de bairro_
 
 ## Apresentação do projeto
 
 <!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
      Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
 
-_Escreva aqui a apresentação do projeto._
+_O AutoAgil é um sistema web criado para otimizar o fluxo de atendimento e agendamento de serviços em lava-rápidos automotivos. Ele substitui o controle manual em pranchetas por uma agenda digital que organiza a capacidade de atendimento do pátio e informa tempos previstos para cada tipo de lavagem. Com o sistema, clientes agendam horários com antecedência e acompanham o status de limpeza do veículo, evitando filas e sobrecarga no estabelecimento_
 
 ## Documento do projeto
 
